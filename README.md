@@ -8,7 +8,7 @@ you can find the dataset using the API command : kaggle datasets download -d ton
 2.cv2
 3.os
 4.random
-5.matplotlib as plt
+5.matplotlib
 6.pickle
 
 Thankyou for reviewing my submission!
